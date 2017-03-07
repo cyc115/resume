@@ -14,6 +14,4 @@ hackmyresume build resume.json to out/resume.all -t './node_modules/jsonresume-t
 ```
 
 # Example
-
-
-![resume](./resume.png)
+![resume](resume.png)
